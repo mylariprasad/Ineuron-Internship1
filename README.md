@@ -8,7 +8,7 @@ This is a console-based ATM simulator developed in Java as part of my coursework
 The simulator allows users to perform various banking transactions such as withdrawals, deposits, fund transfers, and view transaction history.
 
 # Features
-User registration and login functionality.
+User registration and login functionality.<br>
 Withdraw money from the account.
 Deposit money into the account.
 Transfer funds between accounts.
