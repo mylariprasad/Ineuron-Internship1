@@ -4,7 +4,7 @@
 https://www.loom.com/share/3c19798ea31a4819978de81bbd41bf4b?sid=e709b2c8-ac6d-4eee-95c0-00012e92bd46
 
 # ATM Interface(Console based Application)
-This is a console-based ATM simulator developed in Java as part of my coursework at Ineuron.ai./n
+This is a console-based ATM simulator developed in Java as part of my coursework at Ineuron.ai.
 The simulator allows users to perform various banking transactions such as withdrawals, deposits, fund transfers, and view transaction history.
 
 # Features
